@@ -3,7 +3,7 @@
 
 纯文字描述：[点击查看](https://www.bilibili.com/read/cv11839793)
 
-视频全过程演示：[待上传]()
+视频全过程演示：[待上传](https://www.bilibili.com/video/BV1hb4y1C7Be?share_source=copy_web)
 
 
 类型 | 类名 | 描述 | 链接
