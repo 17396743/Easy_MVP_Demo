@@ -14,11 +14,12 @@ import com.example.myapplication.presenter.Presenter;
 public class MainActivity extends AppCompatActivity implements Contrat.IView {
 
     /**
+     *
+     * 首先是我最最喜欢的一句话，也是对不要过度设计的一种诠释。
+     * -- 先实现，再重构吧。直接考虑代码不臃肿得话，不知道什么时候才能写好了。 --
+     *
      * 本人当初学习的时候，是看的这篇文章理解mvp的。
      * 链接：http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0202/2397.html
-     *
-     * 首先是作者最最喜欢的一句话，也是对不要过度设计的一种诠释。
-     * -- 先实现，再重构吧。直接考虑代码不臃肿得话，不知道什么时候才能写好了。 --
      */
 
     /**
