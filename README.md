@@ -6,7 +6,7 @@
 视频全过程演示：[待上传]()
 
 
-类型 | 类名 | -- | --
+类型 | 类名 | 描述 | 链接
 --|--|--|--|
 M层 | Model  | 获取数据 | [点击查看](https://github1s.com/17396743/Easy_MVP_Demo/blob/master/app/src/main/java/com/example/myapplication/model/Model.java)
 P层 |  Presenter  |  交互数据 | [点击查看](https://github1s.com/17396743/Easy_MVP_Demo/blob/master/app/src/main/java/com/example/myapplication/presenter/Presenter.java)
