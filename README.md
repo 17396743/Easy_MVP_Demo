@@ -1,6 +1,8 @@
 # Easy_MVP_Demo
 # 简单的MVP示范案例
 
+纯文字描述：[点击查看](https://www.bilibili.com/read/cv11839793)
+视频全过程演示：[点击查看]()
 
 
 类型 | 类名 | -- | --
